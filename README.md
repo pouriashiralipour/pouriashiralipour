@@ -2,7 +2,8 @@
 I'm Pouria 
 source of energy
 Android & IOS Developer
-Web Designer
+FullStack develooper
+Python Develooper
 and Civil Engineer
 I love movies and enjoy watch them 
 
