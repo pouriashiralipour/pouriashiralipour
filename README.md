@@ -8,7 +8,7 @@ Hi there 👋 I'm Pouria a passionate backend developer from Iran
 
 <p align="left"> <a href="https://twitter.com/impoush" target="blank"><img src="https://img.shields.io/twitter/follow/impoush?logo=twitter&style=for-the-badge" alt="impoush" /></a> </p>
 
-- 🔭 I’m currently working on [chatSrverApp](https://github.com/pouriashiralipour/chat_server_app)
+- 🔭 I’m currently working on [chat_server_app](https://github.com/pouriashiralipour/chat_server_app)
 
 - 🌱 I’m currently learning **Flutter , Django**
 
