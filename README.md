@@ -1,7 +1,7 @@
 ![Masterhead](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)
 # 💫 About Me:
 Hi there 👋 I'm Pouria a passionate backend developer from Iran 
-<h5 align="left">📱 Mobile programmer <br> 💻 Full stack developer <br> 🐍 Python programmer <br></h5>
+<h5 align="left">📱 Mobile programmer <br> 💻 Backend developer <br> 🐍 Python programmer <br></h5>
 <img align="right" alt"Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pouriashiralipour&label=Profile%20views&color=0e75b6&style=flat" alt="pouriashiralipour" /> </p>
