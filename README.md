@@ -9,9 +9,9 @@ Hi there 👋 I'm Pouria a passionate FullStack developer from Iran
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pouriashiralipour&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pouriashiralipour&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriashiralipour&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pouriashiralipour&theme=radikal&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pouriashiralipour&theme=radikal&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriashiralipour&theme=radikal&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
