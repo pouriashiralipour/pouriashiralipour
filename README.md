@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi, I'm Pouria, a backend developer from Iran.<br>I specialize in Django and Python, and I'm also familiar with React, Flutter, and SQL databases.<br>I enjoy building web and mobile apps, working with APIs, and optimizing databases.<br>Currently active on GitHub for learning, building, and contributing to real-world projects.
 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
