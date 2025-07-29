@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I'm Pouria, a backend developer from Iran.<br>I specialize in Django and Python, and I'm also familiar with React, Flutter, and SQL databases.<br>I enjoy building web and mobile apps, working with APIs, and optimizing databases.<br>Currently active on GitHub for learning, building, and contributing to real-world projects.
 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -12,13 +14,7 @@ Hi, I'm Pouria, a backend developer from Iran.<br>I specialize in Django and Pyt
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pouriashiralipour) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pouria.shirali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pouriashiralipour) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/impoush) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pouriashiralipour&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pouriashiralipour&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriashiralipour&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
